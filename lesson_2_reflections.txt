@@ -4,3 +4,13 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area is like an intermediary between a working directory and the repository, it helps us to commit only those files important for us, at least in that specific period of time.  
+
+How can you use the staging area to make sure you have one commit per logical change?
+	Looking at the diferences between those, and decided if those changes are really important to commit  
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	In order to create different versions of the same thing, difficulty modes, languages translations, experimetal changes, etc. Branches can maintain the original files isolated. 
+
+How do the diagrams help you visualize the branch structure?
+	Creating a visual guide, is easier for you to track changes using diagrams
+
